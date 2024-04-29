@@ -88,7 +88,7 @@ def profile(df):
 if menu_id == "EDA":
 
     # Drop unnecessary columns
-    df1 = df.drop(['FID','ParcelID','PID','F__id','Source','ObjectID'],axis=1)
+    df1 = df
     
 
     # 2 Column Layouts of Same Size
