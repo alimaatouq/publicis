@@ -1,6 +1,5 @@
 altair==4.2.0
 hydralit_components==1.0.9
-numpy
 pandas==1.4.1
 plotly==5.6.0
 requests==2.27.1
